@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "travelgram"
+  "defaultProject": "travelgram",
+  "cli": {
+    "analytics": "733a0b4c-ae00-4963-951d-e438bcb0c4e6"
+  }
 }
